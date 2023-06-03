@@ -1,0 +1,22 @@
+body{
+    background-color: aliceblue;
+}
+h1 {
+    color: #fc45dd;
+    border-bottom: 12px dotted #70025e;
+}
+.box{
+    border-color: #70025e;
+    border-radius: 2px;
+    color: rgb(206, 206, 206);
+}
+ul{
+    color: black;
+}
+a.green {
+    color: green;
+  }
+
+a.red {
+    color: red;
+  }
